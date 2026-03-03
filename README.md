@@ -1,4 +1,3 @@
-# Failure-Archive
 # Failure Archive: LoL Death Log  
 A personal micro-dataset that turns “failure” into a readable narrative and an audible event (Small Data)
 
